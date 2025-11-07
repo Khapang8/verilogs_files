@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_decoder_2to4_behav/xsimk.exe -simmode gui -wdb tb_decoder_2to4_behav.wdb -simrunnum 0 -socket 50611
+Design successfully loaded
+Design Loading Memory Usage: 11324 KB (Peak: 11324 KB)
+Design Loading CPU Usage: 46 ms
