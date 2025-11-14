@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+A=1001  B=0011 -> DIFF=0110  Borrow=1
+A=0111  B=0001 -> DIFF=0110  Borrow=1
+A=0100  B=1000 -> DIFF=1100  Borrow=0
+$stop called at time : 30 ns : File "C:/Vivado_projects/Universal_subtractor/Universal_subtractor.srcs/sim_1/new/uni_sub.v" Line 19
