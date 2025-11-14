@@ -1,0 +1,12 @@
+Time resolution is 1 ps
+Time=0  D=0 RESET=1 Q=0
+Time=10000  D=1 RESET=0 Q=0
+Time=15000  D=1 RESET=0 Q=1
+Time=20000  D=0 RESET=0 Q=1
+Time=25000  D=0 RESET=0 Q=0
+Time=30000  D=1 RESET=0 Q=0
+Time=35000  D=1 RESET=0 Q=1
+Time=40000  D=1 RESET=1 Q=0
+Time=50000  D=1 RESET=0 Q=0
+Time=55000  D=1 RESET=0 Q=1
+$stop called at time : 60 ns : File "C:/Vivado_projects/D_Flip Flop/D_Flip Flop.srcs/sim_1/new/D_flipFlop.v" Line 28

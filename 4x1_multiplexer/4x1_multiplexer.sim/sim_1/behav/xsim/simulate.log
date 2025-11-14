@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Time=0  I=1010  S=00  => Y=0
+Time=10000  I=1010  S=01  => Y=1
+Time=20000  I=1010  S=10  => Y=0
+Time=30000  I=1010  S=11  => Y=1
+$stop called at time : 40 ns : File "C:/Vivado_projects/4x1_multiplexer/4x1_multiplexer.srcs/sim_1/new/4x1_multi.v" Line 25
