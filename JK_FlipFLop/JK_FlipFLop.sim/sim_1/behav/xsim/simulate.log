@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Time=0  J=x K=x RESET=1 -> Q=0
+Time=10000  J=0 K=0 RESET=0 -> Q=0
+Time=20000  J=0 K=1 RESET=0 -> Q=0
+Time=30000  J=1 K=0 RESET=0 -> Q=0
+Time=35000  J=1 K=0 RESET=0 -> Q=1
+Time=40000  J=1 K=1 RESET=0 -> Q=1
+Time=45000  J=1 K=1 RESET=0 -> Q=0
+Time=55000  J=1 K=1 RESET=0 -> Q=1
+$stop called at time : 60 ns : File "C:/Vivado_projects/JK_FlipFLop/JK_FlipFLop.srcs/sim_1/new/JK_flipFLop.v" Line 34
